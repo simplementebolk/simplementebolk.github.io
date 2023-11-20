@@ -39,7 +39,7 @@ section article {
 
 }
 
-section img {
+section img,video {
     margin: 0 auto;
     display: block;
 }
