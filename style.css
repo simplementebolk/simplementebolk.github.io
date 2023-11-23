@@ -76,3 +76,15 @@ footer a:hover {
 
     color: cornflowerblue;
 }
+
+footer section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a.discord-link img {
+    height: 30px;
+    width: 40px;
+    margin-right: 5px; /* Ajusta el margen entre el ícono y el texto */
+}
